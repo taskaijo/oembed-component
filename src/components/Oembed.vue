@@ -9,7 +9,7 @@
 import EndPoints from '@/endpoints-regexp.json'
 
 export default {
-  name: 'o-embed',
+  name: 'oembed',
   props: {
     url: {
       type: String,
