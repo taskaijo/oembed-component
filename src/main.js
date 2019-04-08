@@ -12,4 +12,4 @@ Vue.use(vueCustomElement)
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
-Vue.customElement('o-embed', Oembed)
+Vue.customElement('oembed', Oembed)
